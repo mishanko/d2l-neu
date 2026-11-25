@@ -32,5 +32,6 @@
   "jupyter.askForKernelRestart": false,
   "notebook.output.scrolling": true,
   "notebook.output.textLineLimit": 30,
-  "quarto.render.previewType": "external"
+  "quarto.render.previewType": "external",
+  "python.languageServer": "None"
 }

@@ -89,3 +89,14 @@ run_one.sh
 
 # torch.compile / Triton caches (make/notebooks.mk EXTRA_ENV_pytorch)
 .cache/
+
+# torch static files
+pytorch/static/*
+
+# archives
+d2l-en.zip
+
+# data
+pytorch/chapter_appendix-mathematics-for-deep-learning/temp/MNIST/*
+pytorch/chapter_computer-vision/submission.csv
+pytorch/chapter_multilayer-perceptrons/submission.csv
